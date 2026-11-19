@@ -1,4 +1,4 @@
-# mydatapass-app
+# MyDataPass
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mydatapass-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mydatapass.app/
+MyDataPass provides a platform for businesses to manage data access, portability, and exit strategies in compliance with regulations such as DORA, NIS2, GDPR, and the EU Data Act. The service offers tools for providers and customers to track data permissions, ensure secure off‑boarding, and generate verifiable evidence for auditors without writing to client systems. It includes a free signup, pricing plans, and detailed guides on security questionnaires, data export, and off‑boarding processes, aiming to simplify regulatory compliance and data lifecycle management for enterprises across the EU and UK.
+
+**Areas:** Company · Data-Compliance · Data-Management · SaaS · EU-Regulation · Privacy
+
+## MyDataPass on APIs.io
+
+Everything profiled for MyDataPass is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mydatapass-app/](https://apis.io/providers/mydatapass-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MyDataPass API](https://apis.io/apis/mydatapass-app/mydatapass-api/) — API for MyDataPass platform, providing data access, portability, and exit management operations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MyDataPass Domain Security](https://apis.io/security/mydatapass-app/mydatapass-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MyDataPass Plans Pricing](https://apis.io/plans/mydatapass-app/mydatapass-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mydatapass.app/)
+- [Documentation](https://mydatapass.app/guides)
+- [Pricing](https://mydatapass.app/pricing)
+- [Terms of service](https://mydatapass.app/terms)
+- [Privacy policy](https://mydatapass.app/privacy)
+
+## API Evangelist rating
+
+**Kin Score 19.6** — emerging · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.0 |
+| Access clarity | 59.1 |
+
+**Agent readiness 6.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mydatapass-app/](https://apis.io/providers/mydatapass-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MyDataPass: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mydatapass-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
